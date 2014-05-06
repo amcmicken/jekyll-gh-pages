@@ -1,0 +1,34 @@
+body { 
+	font-size: 12px;
+	font-family:"Courier New";	
+	line-height: 20px;
+	width: 400px;
+	margin: 50px;
+}
+a { 
+	outline:none; 
+	border:none;
+}
+a:link { 
+	color : #0000ff; 
+	text-decoration : none; 
+}
+a.link:hover{
+	color: #33ffcc;
+}
+a:visited { 
+	color : #0000ff; 
+	text-decoration : none; 
+}
+a:hover { 
+	color : #33ffcc; 
+} 
+h1{
+	font-weight: 100;
+}
+h2{
+	font-weight: 100;
+}
+li{
+	list-style: none;
+}
